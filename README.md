@@ -1,0 +1,2 @@
+# UEditorHelperForCUEB
+针对某些特殊网站上的UEditorPlus阉割了部分功能的问题做一些特殊操作，让它拥有更多功能。并没有HOOK任何网站特殊代码，原网站无校内VPN无法进入。
